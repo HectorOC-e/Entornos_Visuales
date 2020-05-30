@@ -91,7 +91,7 @@ Partial Class Form1
         '
         'btnSalir
         '
-        Me.btnSalir.Location = New System.Drawing.Point(131, 273)
+        Me.btnSalir.Location = New System.Drawing.Point(131, 272)
         Me.btnSalir.Name = "btnSalir"
         Me.btnSalir.Size = New System.Drawing.Size(75, 23)
         Me.btnSalir.TabIndex = 12
@@ -102,7 +102,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(360, 342)
+        Me.ClientSize = New System.Drawing.Size(360, 312)
         Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.btnCalcular)
         Me.Controls.Add(Me.Label1)
