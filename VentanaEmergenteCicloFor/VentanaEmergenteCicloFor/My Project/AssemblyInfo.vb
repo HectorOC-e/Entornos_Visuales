@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("ciclo for y ventana emergente")>
+<Assembly: AssemblyTitle("VentanaEmergenteCicloFor")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("ciclo for y ventana emergente")>
+<Assembly: AssemblyProduct("VentanaEmergenteCicloFor")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-<Assembly: Guid("e263c1bb-a94e-4ff0-b39d-4c9f4c3f983f")>
+<Assembly: Guid("1ac5d930-672b-44ec-b683-9094e628448c")>
 
 ' La información de versión de un ensamblado consta de los cuatro valores siguientes:
 '

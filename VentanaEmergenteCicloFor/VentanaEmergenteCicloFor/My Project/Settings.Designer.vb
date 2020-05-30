@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.ciclo_for_y_ventana_emergente.My.MySettings
+        Friend ReadOnly Property Settings() As Global.VentanaEmergenteCicloFor.My.MySettings
             Get
-                Return Global.ciclo_for_y_ventana_emergente.My.MySettings.Default
+                Return Global.VentanaEmergenteCicloFor.My.MySettings.Default
             End Get
         End Property
     End Module
